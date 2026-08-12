@@ -1,5 +1,5 @@
 # 💫 About Me:
-ECE student exploring software development, data analytics, and AI. Currently building my skills in **Python, web development, and problem-solving**, while working on projects that combine technology and real-world applications. 🚀<br>skills: Python, C/C++, HTML, CSS, JavaScript, Git & GitHub, HTML, CSS, JAVASCRIPT, React.js,next.js 
+ECE student exploring software development, data analytics, and AI. Currently building my skills in **Python, web development, and problem-solving**, while working on projects that combine technology and real-world applications. 🚀<br>skills: Python, C/C++, HTML, CSS, JavaScript, Git & GitHub, React.js, Next.js 
 
 
 ## 🌐 Socials:
